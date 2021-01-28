@@ -1,1 +1,0 @@
-print('2nd hello to python & git2')
