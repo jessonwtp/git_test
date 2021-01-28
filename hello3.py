@@ -1,1 +1,1 @@
-print('3rd hello to python & git-3')
+print('3rd hello to python & git')
